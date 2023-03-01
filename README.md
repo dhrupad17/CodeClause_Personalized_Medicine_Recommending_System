@@ -14,7 +14,7 @@ A Medicine Recommendation System is a Machine Learning model that can assist hea
 
 - ``Training the Model:`` Train the machine learning model on the pre-processed data. Evaluate the performance of the model using appropriate metrics like accuracy, precision, recall, and F1-score. Fine-tune the model by adjusting its hyperparameters to improve its performance.
 
-### DataSet:- 
+### DataSet:- https://github.com/dhrupad17/CodeClause_Personalized_Medicine_Recommending_System/blob/main/medicine.csv
 
 ### Overview:-
 
